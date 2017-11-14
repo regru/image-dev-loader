@@ -1,0 +1,11 @@
+{
+  "name": "img-dev-loader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Makarychev <shiftmailbox@gmail.com>",
+  "license": "ISC"
+}

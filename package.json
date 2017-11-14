@@ -2,6 +2,7 @@
   "name": "img-dev-loader",
   "version": "0.1.0",
   "description": "",
+  "homepage": "https://github.com/shifteee/image-dev-loader.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

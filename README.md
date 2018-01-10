@@ -11,6 +11,7 @@ Replace image url with relative path to source file
             loader: 'image-dev-loader',
             options: {
                 context: 'context/path/',
+                prefix: '', // prefix for url if needed
             },
         },
     ],

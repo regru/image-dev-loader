@@ -1,7 +1,7 @@
 {
-  "name": "img-dev-loader",
+  "name": "@regru/img-dev-loader",
   "version": "0.2.1",
-  "description": "",
+  "description": "Replace image url with relative path to source file",
   "homepage": "https://github.com/shifteee/image-dev-loader.git",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,17 @@
   "license": "MIT",
   "engines": {
     "node": ">= 7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regru/image-dev-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "css"
+  ],
+  "bugs": {
+    "url": "https://github.com/regru/image-dev-loader/issues"
   }
 }
